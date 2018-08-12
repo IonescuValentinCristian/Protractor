@@ -1,6 +1,6 @@
 // import {By, element} from 'protractor';
 
-export class PageName {
+export class Octa {
 	
 	// static readonly CONST = "";
 	
