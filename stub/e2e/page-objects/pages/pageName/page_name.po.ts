@@ -1,6 +1,6 @@
 // import {By, element} from 'protractor';
 
-export class Octa {
+export class Octa2 {
 	
 	// static readonly CONST = "";
 	
